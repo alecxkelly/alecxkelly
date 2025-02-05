@@ -1,4 +1,4 @@
-<h1>Hi, my name is Alecxis, an <a href="https://linkedin.com/in/alecxiskelly">IT Professional+Cybersecurity Student</a>☺</h1>
+<h1>Hi, my name is Alecxis, an <a href="https://linkedin.com/in/alecxiskelly">IT + Cybersecurity Professional</a>☺</h1>
 
 <h2>👩🏽‍💻 Information Technology Projects:</h2>
 
